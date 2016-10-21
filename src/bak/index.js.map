@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.es6.js"],"names":[],"mappings":";;AAAA;AACA;AACA,IAAI,SAAS,QAAQ,UAAR,CAAb;AACA,OAAO,KAAP","file":"index.js","sourcesContent":["// import test from './server.es6';\r\n// test.start();\r\nvar server = require('./server');\r\nserver.start();"]}
